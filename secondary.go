@@ -5,8 +5,9 @@ import (
 	"sync/atomic"
 
 	"github.com/joeshaw/gengen/generic"
-	"github.com/zenhotels/btree-2d/lockie"
-	"github.com/zenhotels/btree-2d/util"
+
+	"github.com/astranet/btree-2d/lockie"
+	"github.com/astranet/btree-2d/util"
 )
 
 // SecondaryCmpFunc compares a and b. Return value is:

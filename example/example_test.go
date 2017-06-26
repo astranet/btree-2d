@@ -8,7 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/xlab/treeprint"
-	"github.com/zenhotels/btree-2d/example/btree2d"
+
+	"github.com/astranet/btree-2d/example/btree2d"
 )
 
 func cmpInt(a, b int) int {

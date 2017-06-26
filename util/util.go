@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/zenhotels/btree-2d/uuid"
+	"github.com/astranet/btree-2d/uuid"
 )
 
 var machineNs = uuid.NewV1()
